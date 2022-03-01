@@ -59,8 +59,14 @@ h1 {
   color: #ff4c68;
   padding-bottom: 3%;
 
+
 }
 
 .featureIcon:hover {
   color: #f25086;
+}
+
+#Testimonials {
+  padding: 7% 15%;
+  text-align: center;
 }
