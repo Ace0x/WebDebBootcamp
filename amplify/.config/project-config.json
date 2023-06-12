@@ -5,7 +5,7 @@
   "javascript": {
     "framework": "none",
     "config": {
-      "SourceDir": "src",
+      "SourceDir": "IntermidiateCssSite/index.html",
       "DistributionDir": "dist",
       "BuildCommand": "npm.cmd run-script build",
       "StartCommand": "npm.cmd run-script start"
