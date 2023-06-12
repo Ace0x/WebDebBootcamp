@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/items": {
+      "name": "/items",
+      "lambdaFunction": "webdebbootcamp666adfb5",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}

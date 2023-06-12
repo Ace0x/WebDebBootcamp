@@ -1,0 +1,32 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-webdebbootcamp-dev-121755-authRole",
+      "UnauthRoleArn": "arn:aws:iam::771946477801:role/amplify-webdebbootcamp-dev-121755-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::771946477801:role/amplify-webdebbootcamp-dev-121755-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-webdebbootcamp-dev-121755-deployment",
+      "UnauthRoleName": "amplify-webdebbootcamp-dev-121755-unauthRole",
+      "StackName": "amplify-webdebbootcamp-dev-121755",
+      "StackId": "arn:aws:cloudformation:us-east-1:771946477801:stack/amplify-webdebbootcamp-dev-121755/d713c010-0955-11ee-a568-0e2fb59a4fc7",
+      "AmplifyAppId": "d15o300hpdubzy"
+    },
+    "categories": {
+      "function": {
+        "webdebbootcamp666adfb5": {
+          "deploymentBucketName": "amplify-webdebbootcamp-dev-121755-deployment",
+          "s3Key": "amplify-builds/webdebbootcamp666adfb5-75457765676b704b4f53-build.zip"
+        }
+      },
+      "api": {
+        "api": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d15o300hpdubzy",
+          "type": "cicd"
+        }
+      }
+    }
+  }
+}
